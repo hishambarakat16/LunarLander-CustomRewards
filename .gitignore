@@ -1,0 +1,13 @@
+tmp/*
+logs/*
+*.pyc
+__pycache__/
+gifs/*
+models/*
+experiments_results/*
+runs/*
+plots/*
+videos/*
+visualizations/*
+ablation_test/*
+experiment_metadata/*
