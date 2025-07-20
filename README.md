@@ -1,5 +1,3 @@
-I'll update the README to include more detailed information about the custom reward function at the top, explaining how it works and how users can customize it.
-
 # LunarLander-CustomRewards
 
 A Proximal Policy Optimization (PPO) implementation for OpenAI Gym's LunarLander-v2, extended with:
